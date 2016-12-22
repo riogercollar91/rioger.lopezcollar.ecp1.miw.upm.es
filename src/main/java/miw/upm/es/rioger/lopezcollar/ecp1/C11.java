@@ -3,7 +3,7 @@ package miw.upm.es.rioger.lopezcollar.ecp1;
 public class C11 {
 
 	public String m1() {
-		//ERROR CORREGIDO
+		//ERROR CORREGIDO 
 		return "m1";
 	}
 
